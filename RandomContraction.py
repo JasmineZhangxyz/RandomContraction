@@ -1,7 +1,7 @@
 # ------------------------------
 # Author: Jasmine Zhang
 # Date Created: June 11, 2020
-# Date Completed:
+# Description: Working version of Random Contraction.
 # ------------------------------
 
 import random
